@@ -66,6 +66,5 @@ public class Checkers {
         makeMove.get(randomMakeMove).click();
 
 
-
     }
 }
